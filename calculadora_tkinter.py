@@ -80,7 +80,7 @@ class DesignerCalculadora():
 
     #FUNÇÃO DA TELA
     def tela(self):
-        self.root.title("Calculadora")
+        self.root.title("Calculadora by Jvictor")
         self.root.configure(background="#DCDCDC")
         self.root.geometry("280x380")
         self.root.resizable(False, False)
