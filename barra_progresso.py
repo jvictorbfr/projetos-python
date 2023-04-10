@@ -1,10 +1,11 @@
+#Barra de progresso by Jvictor
 from tkinter import *
 from tkinter import ttk
 import time
 
 root = Tk()
 root.configure(background="white")
-root.title("Barra de progresso")
+root.title("Barra de progresso by Jvictor")
 root.geometry("500x400")
 root.resizable(False, False)
 
